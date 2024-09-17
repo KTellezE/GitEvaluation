@@ -16,7 +16,7 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 ## Contact
 For any questions or feedback, please reach out to us at email@example.com.
 
-Please consider the below factors while contributing
+## Please consider the below factors while contributing
 
 Code Style:
 Maintain a consistent code style for readability.
